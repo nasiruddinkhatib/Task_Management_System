@@ -43,3 +43,29 @@ def task():
 
 
 task()
+#Output : 
+# ----WELCOME TO THE TASK MANAGEMENT APP----
+# Enter how many tasks you want to add = 4
+# Enter task 1 = Coding
+# Enter task 2 = Testing 
+# Enter task 3 = Resting 
+# Enter task 4 = Reading
+# Today's tasks are
+# ['Coding', 'Testing ', 'Resting ', 'Reading']
+# Enter 
+# 1-Add
+# 2-Update
+# 3-Delete
+# 4-View
+# 5-Exit/Stop
+# 1
+# Enter task you want to add = Dinner
+# Task 'Dinner' has been successfully added.
+# Enter 
+# 1-Add
+# 2-Update
+# 3-Delete
+# 4-View
+# 5-Exit/Stop
+# 5
+# Closing the program....
